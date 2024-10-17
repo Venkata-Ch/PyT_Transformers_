@@ -1,0 +1,10 @@
+pandas
+numpy
+plotly
+scikit-learn
+torch
+portalocker
+torchtext
+torchdata
+fastapi[all]
+docker
