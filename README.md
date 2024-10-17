@@ -1,5 +1,5 @@
 <html>
-<head><title></title></head>>
+<head></head>
 <body>
 <h3>Transformers Implementation</h3>
 
@@ -14,6 +14,6 @@ Model architecture has been built using Pytorch.
 </body>
 
 ![Screenshot](./assets/Screenshot%20from%202024-10-09%2023-09-51.png)
-*Model Ooutput*
+*Model Output*
 
 </html>
